@@ -1,0 +1,15 @@
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+F:\Komarov\Нужное\Lessson\functions\Task3\bin\Debug\net8.0\Task3.exe
+F:\Komarov\Нужное\Lessson\functions\Task3\bin\Debug\net8.0\Task3.deps.json
+F:\Komarov\Нужное\Lessson\functions\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+F:\Komarov\Нужное\Lessson\functions\Task3\bin\Debug\net8.0\Task3.dll
+F:\Komarov\Нужное\Lessson\functions\Task3\bin\Debug\net8.0\Task3.pdb
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\Task3.dll
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\refint\Task3.dll
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\Task3.pdb
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+F:\Komarov\Нужное\Lessson\functions\Task3\obj\Debug\net8.0\ref\Task3.dll
